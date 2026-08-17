@@ -1,4 +1,3 @@
-// Données encodées en base64
 const p1 = "cG9pc3N5"
 const p2 = "MDYxMzA2MTMyOQ=="
 
