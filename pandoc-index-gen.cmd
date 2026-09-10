@@ -21,7 +21,7 @@ E:\Install\pandoc-3.10.2\pandoc-3.10.2\pandoc.exe index.docx -f docx -o index.ht
 
 @REM - Compléter le style td { } avec la ligne : border-bottom: 1px solid #1a1a1a;
 @REM - Ajouter le style suivant aux paragraphes <p> qui contiennent la phrase "Très facile" :  style="color:#1f8f1f"
-
+@REM - Ajouter le style suivant aux paragraphes <p> "facile" :  style="color:#2196F3"
 
 
 
