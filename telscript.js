@@ -1,5 +1,5 @@
-const p1 = "cG9pc3N5"
-const p2 = "MDYxMzA2MDYwNg=="
+const p1 = "U3RyYXNib3VyZw=="
+const p2 = "MDYxMzA2MTMyOQ=="
             
 
 document.getElementById("passwordForm").addEventListener("submit", function(e) {
