@@ -1,1 +1,0 @@
-The dossier contient les images de l’article « POURQUOI FAUT-IL ÉVACUER LES PLATEFORMES NUMÉRIQUES AMÉRICAINES ET QUEL EST LE MODE D’EMPLOI ? ».
